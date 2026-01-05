@@ -8,6 +8,7 @@
 - 了解 Linux 操作系统。华为开发板安装了 Linux 操作系统，因此也需要了解。
 - 了解 Python 编程语言。通常使用 Python 编写程序实现作品。
 - 了解历届比赛获奖作品。作为参考做出自己的作品，提高获奖几率。
+- AI相关知识。作品和AI相关，所以还需要了解AI一些基本知识。
 
 ## 初识华为开发板
 
@@ -272,13 +273,18 @@ Hello World!
   - 希望能在俱乐部中，获得什么形式的、哪些方面的 **训练和提升**？
 
 <!-- [第十届华为ICT大赛创新赛学习空间](https://talent.shixizhi.huawei.com/center/privateCenter.htm?schoolId=1365189427395223554&type=studyCenter_LearningTask&sxz-lang=zh_CN&mapDetail=3&mapDetailId=1838879415425572866&freedomMapClickItemId=1838879415429767175) -->
-
 - **昇腾AI创新大赛**
   - 说说 **昇腾AI创新大赛** 的简要情况。
   - 做什么样的作品去参赛，有可能获得奖项？
-
 
 - **鲲鹏创新大赛**
   - 说说 **鲲鹏创新大赛** 的简要情况。
   - 做什么样的作品去参赛，有可能获得奖项？
   - 和 **昇腾AI创新大赛**、**华为ICT大赛** 的区别是什么？
+
+<!--  -->
+## AI相关知识
+
+有很多教程，同学们可选择适合自己的教程学习。华为 HCIA-AI 认证有相应教程，供同学们参考，详情参见：[HCIA-AI相关说明](https://tnt.georgedonne.cn/ailab/hciaai.html)。
+
+可以访问 [华为人才在线](https://e.huawei.com/cn/talent/portal/#/)，点击 `认证 | 职业认证`，找到 `基础软硬件 | AI | HCIA-AI` （不是 `HICA-AI Solution`），了解更多信息。
